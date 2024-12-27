@@ -1,0 +1,48 @@
+body{
+
+}
+header h2{
+    background-color: #f8f9fa;
+    font-family: 'Poppins';
+    color:#343a40;
+    text-transform: uppercase;
+}
+
+
+ section h2 {
+    font-size: 2.5rem; 
+    font-family: 'Roboto', sans-serif;
+    Background: #ffffff;
+     color: #212529;
+
+ }
+ section p{
+   font-family: 'Roboto', sans-serif;
+   Background: #ffffff;
+   line-height: 42px;
+    color: #212529;
+    font-size: 22px;
+ }
+ section .card-body{
+    Background: #f0f2f5;
+    color: #212529;
+ }
+
+.card-title{
+   color: #343a40;
+}
+footer{
+   Background :#343a40;
+    color: #f8f9fa;
+}
+#contact{
+   font-family: 'open sans';
+   background: #ffffff; 
+   color:#495057 ; 
+}
+.icons{
+   justify-content: space-between;
+   display:inline-block;
+   padding-right: 30px;
+   padding-left: 30px;
+}
